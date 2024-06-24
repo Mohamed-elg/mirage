@@ -1,3 +1,5 @@
-# Mirage Dark++
+# Mirage
 
-Fork of Mirage Dark+. A combination of Mirage theme and Dark+ theme.
+A VSCode theme inspired by ayu_mirage and Dark+ themes
+
+![preview](./preview.png)

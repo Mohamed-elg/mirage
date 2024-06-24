@@ -1,21 +1,36 @@
 {
-  "name": "mirage-dark-plus-plus",
-  "displayName": "Mirage Dark++",
-  "description": "Fork of Mirage Dark+. A combination of Mirage theme and Dark+ theme.",
+  "name": "mirage",
+  "displayName": "Mirage",
+  "description": "Inspired by ayu_mirage and Dark+ themes",
   "version": "0.0.1",
-  "publisher": "M.E, jaromirroth",
-  "engines": {
-    "vscode": "^1.28.0"
+  "publisher": "Mohamed E",
+  "icon": "icon.png",
+  "homepage": "https://github.com/Mohamed-elg/mirage",
+  "repository": {
+    "url": "https://github.com/Mohamed-elg/mirage",
+    "type": "git"
   },
+  "bugs": {
+    "url": "https://github.com/Mohamed-elg/mirage/issues"
+  },
+  "keywords": [
+    "theme",
+    "mirage",
+    "dark",
+    "dark+"
+  ],
   "categories": [
     "Themes"
   ],
+  "engines": {
+    "vscode": "^1.28.0"
+  },
   "contributes": {
     "themes": [
       {
-        "label": "Mirage Dark++",
+        "label": "Mirage",
         "uiTheme": "vs-dark",
-        "path": "./themes/Mirage Dark++-color-theme.json"
+        "path": "./themes/Mirage-color-theme.json"
       }
     ]
   }
