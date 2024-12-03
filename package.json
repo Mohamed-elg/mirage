@@ -1,6 +1,6 @@
 {
-  "name": "mirage",
-  "displayName": "Mirage",
+  "name": "mirage-black-pearl",
+  "displayName": "Mirage Black Pearl",
   "description": "Inspired by ayu_mirage and Dark+ themes",
   "version": "0.0.1",
   "publisher": "MohamedE",
@@ -16,6 +16,7 @@
   "keywords": [
     "theme",
     "mirage",
+    "black pearl",
     "dark",
     "dark+"
   ],
