@@ -1,4 +1,4 @@
-# Mirage Black Pearl
+# Mirage
 
 A VSCode theme inspired by ayu_mirage and Dark+ themes
 
